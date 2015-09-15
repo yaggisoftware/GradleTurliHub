@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+	<fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+        
+	<RelativeLayout 
+        android:id="@+id/mapframe"
+		android:layout_width="match_parent" 
+		android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:contentDescription="@string/zoomin_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageButton2"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginBottom="1dp"
+        android:background="#00FFFFFF"
+        android:src="@drawable/zoomin"
+        android:onClick="onZoomInClicked" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:contentDescription="@string/zoomout_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:background="#00FFFFFF"
+        android:src="@drawable/zoomout"
+        android:onClick="onZoomOutClicked" />
+    
+	<ImageButton
+        android:id="@+id/imageButton3"
+        android:contentDescription="@string/action_my_position"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="#00FFFFFF"
+        android:src="@drawable/position_button"
+        android:onClick="onPositionButtonClicked" />
+	
+	</RelativeLayout>
+
+	<FrameLayout 
+        android:id="@+id/pdc"
+		android:layout_width="match_parent" 
+		android:layout_height="100dp"
+		android:layout_alignParentBottom="true"	
+		android:clickable="false">
+		</FrameLayout>
+
+</RelativeLayout>

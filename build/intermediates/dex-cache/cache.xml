@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\libs\aws-android-sdk-2.1.8-cognito.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09ec2ef35bb99cb43649f8b6ead5af30ea000c15">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\aws-android-sdk-2.1.8-cognito-f17ff481ce5b6e06dfb5e2cef48d34416d5ff7a3.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-b376839687da99b894c8f4f98fe8a32b28e691e4.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-f452bec809d2b5dd8722e8bdb0c1d3334d1cea4e.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\libs\aws-android-sdk-2.1.8-ddb-mapper.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0c1066ab1008aed6aced2c2efea7fd9abe9ab01f">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\aws-android-sdk-2.1.8-ddb-mapper-f4e8e1eb311a87f7b828e87c817996ce85ed433a.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-ca2a98858adac89b488cc29cdbdb75e297d110e6.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-60ee841864227c465a62fdc68d6751d0d8d0846f.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-d96581cd8054c7975a5aa35e2f9336d247808923.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-0d2c5bc10d2b722544af24b9bd89f043c6e0cd63.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-ad9c8ce9bfa7d5c20a74732ab3777f8825dfece1.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-21475560202de6be222d532e9b9a5e1422395755.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-4ae7846ba657d8d8e1bc25a30c83157ce82554f7.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-bbd106f3554e8258e31b62ff43509e9e223cf379.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-e52b4125c53d200bf035013e7cf4cb9526e6b373.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\libs\aws-android-sdk-2.1.8-core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4dc910e1447be6db496a813e131b8f329939929f">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\aws-android-sdk-2.1.8-core-10021cdb74df10ceeee7029e037115d0bb99ea31.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-6b0b337bc363b74bc40b14bfed26fc6b9671dd28.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d37a1f523c7ae8eaa3fd69d7b6cd8ae3c3d56f25.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-8afd0c28539c1484265b3909d3e30b8fbc970863.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-dd4f34a939c294ff2b8f5b4c6f00d417e24ae05c.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-545092e1e8cec2c91d5e600f0d853662923535ee.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-cd3ce5d8722ce1886187cab826529786fff0c94b.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-67a3f392408b1cd6b1d5a38b8019a30b30e2ca25.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-983858f8eda6b9861b73acd62697d63cc7bbfb5f.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-a406114a8beb7de900cd9431080a742d47d7f85e.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-8162d6dfb3f97913774ccf22baf326d49c855a9d.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-27abc0886ce92fa1310e9de197849aaa370dcb22.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-872dcbdf42ada76bd66a1139b7cb2e0ff241f216.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-ef82f8b4f6346dd53b20f9b88c651487624a9c96.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\libs\aws-android-sdk-2.1.8-ddb.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="110688ef28b1218058f5e83c8420002cc6d9ce28">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\aws-android-sdk-2.1.8-ddb-98ba42dba29064f32628514ffcb75de7b83a963e.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-83affee713e98ff59a72ca57c1a78feea6b668d5.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-1ed108b34fa2e3ecb3f80905c7b68b3795931e59.jar" />
+    </item>
+    <item
+        jar="C:\androidApplications\GradleTurliHub\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\androidApplications\GradleTurliHub\app\build\intermediates\pre-dexed\debug\classes-d752e0b2850ee474316b7c1fd6a48d6f67fe7792.jar" />
+    </item>
+
+</items>

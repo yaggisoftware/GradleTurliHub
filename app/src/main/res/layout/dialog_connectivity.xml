@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:background="#FF393939" >
+    
+    
+      <ImageView
+        android:id="@+id/connectivityIcon"
+        android:src="@drawable/ic_menu_refresh"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:scaleType="fitStart"
+        android:contentDescription="@string/app_name" />     
+    
+    <TextView
+        android:id="@+id/connectivityDialogText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_toRightOf="@+id/connectivityIcon"
+        android:layout_toEndOf="@+id/connectivityIcon"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textColor="#FFFFFFFF" 
+        android:gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/connectivityDialogButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/connectivityIcon"
+        android:textSize="14sp"
+        android:textColor="#FFFFFFFF"
+        android:text="@string/connectivity_button" 
+        style="?android:attr/borderlessButtonStyle"/>
+    
+</RelativeLayout>

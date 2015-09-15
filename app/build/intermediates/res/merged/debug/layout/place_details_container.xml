@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="100dp"
+    android:background="#FF696969">
+    
+    <TextView
+        android:id="@+id/pdcText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:textColor="#FFEEEEEE"
+        android:textSize="23sp" />
+    
+    <TextView
+        android:id="@+id/pdcAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_below="@+id/pdcText"
+        android:textColor="#FFEEEEEE"
+        android:textSize="15sp" />
+    
+    <TextView
+        android:id="@+id/pdcDistance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_below="@+id/pdcAddress"
+        android:textColor="#FFEEEEEE"
+        android:textSize="12sp" />
+    
+</RelativeLayout>
+<!-- From: file:/C:/androidApplications/GradleTurliHub/app/src/main/res/layout/place_details_container.xml -->

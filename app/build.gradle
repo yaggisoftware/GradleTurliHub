@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.lalitote.turli"
+        minSdkVersion 14
+        targetSdkVersion 23
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:multidex:1.0.1'
+    compile files('libs/aws-android-sdk-2.1.8-cognito.jar')
+    compile files('libs/aws-android-sdk-2.1.8-core.jar')
+    compile files('libs/aws-android-sdk-2.1.8-ddb-mapper.jar')
+    compile files('libs/aws-android-sdk-2.1.8-ddb.jar')
+}

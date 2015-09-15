@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turli</string>
+    <string name="action_options">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_my_position">My position</string>
+    <string name="action_search">Search</string>
+    <string name="search_settings">Search Settings</string>
+    <string name="search_options_checkbox_text">Auto</string>
+    <string name="search_categories_label">Select Category:</string>
+    <string name="search_settings_radio_all">All</string>
+    <string name="search_settings_radio_shopping">Shopping</string>
+    <string name="search_settings_radio_food">Food</string>
+    <string name="search_settings_radio_entertainment">Entertainment</string>
+    <string name="zoomin_description">Zoom in</string>
+    <string name="zoomout_description">Zoom out</string>   
+    <string name="connectivity_button">OK</string> 
+    <string name="connectivity_connection">Seems like connection is down. Please check your internet connection</string>
+    <string name="connectivity_position">We cannot determine your location. Please enable location in phone settings</string>  
+
+</resources>
