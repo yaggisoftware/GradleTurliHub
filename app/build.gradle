@@ -20,7 +20,7 @@ android {
 }
 
 dependencies {
-    compile 'com.google.android.gms:play-services:+'
+    compile 'com.google.android.gms:play-services:7.8.0'
     compile 'com.android.support:multidex:1.0.1'
     compile files('libs/aws-android-sdk-2.1.8-cognito.jar')
     compile files('libs/aws-android-sdk-2.1.8-core.jar')
