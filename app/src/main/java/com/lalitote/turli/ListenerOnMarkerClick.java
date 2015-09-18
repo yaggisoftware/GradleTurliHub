@@ -116,10 +116,7 @@ public class ListenerOnMarkerClick implements OnMarkerClickListener {
 		} catch (NullPointerException ex) {
 
 		}
-		if (view == null)
-			return false;
-		else
-			return true;
+		return view != null;
 	}
 
 	public PlaceDetails getCreatedFragment() {

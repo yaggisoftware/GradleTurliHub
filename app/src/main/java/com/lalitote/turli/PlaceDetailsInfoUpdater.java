@@ -92,10 +92,7 @@ public class PlaceDetailsInfoUpdater extends AsyncTask<Marker, Void, Marker> {
 		} catch (NullPointerException ex) {
 			// Log.e("Null Pointer Exception", "PDC was not created");
 		}
-		if (view == null)
-			return false;
-		else
-			return true;
+		return view != null;
 	}
 
 }

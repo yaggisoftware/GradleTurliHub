@@ -59,10 +59,7 @@ public class ListenerOnMapClick implements OnMapClickListener {
 		} catch (NullPointerException ex) {
 
 		}
-		if (view == null)
-			return false;
-		else
-			return true;
+		return view != null;
 	}
 
 }

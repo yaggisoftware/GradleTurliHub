@@ -67,9 +67,6 @@ public class PlaceDetailsAnimator {
 		} catch (NullPointerException ex) {
 
 		}
-		if (view == null)
-			return false;
-		else
-			return true;
+		return view != null;
 	}
 }
